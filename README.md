@@ -116,4 +116,4 @@ job-tracker/
 
 ## Author
 
-**Youssef Zakaria** — [GitHub](https://github.com/youssefzekaa22) · [LinkedIn](https://linkedin.com/in/youssef-zakaria)
+**Youssef Zakaria** — [GitHub](https://github.com/youssefzekaa22) · [LinkedIn](https://www.linkedin.com/in/youssef-zakaria-8a8252276)
